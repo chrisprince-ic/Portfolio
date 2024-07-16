@@ -92,22 +92,7 @@ progress::-webkit-progress-value {
   display: flex;
   justify-content: space-between;
 }
-.main-resume .other-skills table {
-  border-spacing: 0.5em;
-  padding: 2em 2em;
-}
-.main-resume .other-skills td {
-  padding: 1em 1em;
-  background-color: #ffb11f;
-  border-radius: 10em;
-  margin: 1em;
-  width: auto;
-}
 
-.main-resume .other-skills .random {
-  background-color: var(--primary-color);
-  color: white;
-}
 
 @media (max-width: 600px) {
   .cv-conatiner {
